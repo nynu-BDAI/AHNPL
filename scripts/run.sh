@@ -5,7 +5,7 @@ threshold_type=mean
 fixed_threshold_value=8
 lr=2e-05
 bs=128
-cd ./src/
+cd ..
 
 for mar_weight in 0.2
 do
